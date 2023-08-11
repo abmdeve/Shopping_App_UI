@@ -38,7 +38,7 @@ export default Header;
 const styles = StyleSheet.create({
   header: {
     paddingHorizontal: 24,
-    paddingVertical: 24,
+    // paddingVertical: 24,
     flexDirection: "row",
     alignItems: "center",
     gap: 8,
